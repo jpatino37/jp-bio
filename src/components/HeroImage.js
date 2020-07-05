@@ -36,7 +36,7 @@ const HeroImage = () => (
         <span style={{ fontSize: '16px' }}> [ cheym-be-an-doh ]</span>
       </Header>
       <p style={{ marginTop: '2px' }}>(adj.) Spanish slang for working</p>
-      <p style={{ fontSize: '18px' }}>
+      <p style={{ fontSize: '22px' }}>
         My name is Jose Patino and I have been a software developer for 3 years.
         If you have an idea for a website or are in need of a website for your
         business, put me to &quot;chambear&quot; for you. Im sure that with a little hard
